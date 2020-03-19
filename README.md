@@ -1,4 +1,4 @@
-# -UniPune-WebScraping
+# UniPune-WebScraping
 An UniPune Webscarping program to get your results emailed to you as soon as they are released!
 
 1. Enter your email and password in the "email-credentials" file 
